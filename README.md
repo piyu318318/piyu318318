@@ -1,3 +1,4 @@
+![violet background](https://via.placeholder.com/1000x200/8A2BE2/FFFFFF?text=+)
 <div style="background-color: violet; padding: 20px; border-radius: 10px; color: white;">
 
 <h1 align="center">Hi 👋, What's up?</h1>
